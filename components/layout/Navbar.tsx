@@ -49,7 +49,7 @@ export default function Navbar() {
         <div className="max-w-7xl mx-auto flex items-center justify-between py-4 px-4 sm:px-6 md:px-12">
           {/* Logo */}
           <Link href="/" className="flex-shrink-0">
-            <img src="/logo (1).png" alt="Estatein Logo" className="h-8 sm:h-10 w-auto cursor-pointer" />
+            <img src="/logo.png" alt="Estatein Logo" className="h-8 sm:h-10 w-auto cursor-pointer" />
           </Link>
 
           {/* Desktop Menu */}
